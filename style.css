@@ -1,0 +1,31 @@
+
+
+
+
+html{
+
+    height: auto;
+    width: 400px;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    background: #f1faee;
+    color: black;
+    font-size: 15px;
+
+}
+#headingsec{
+
+    text-align: center;
+    color: white;
+    height: 50px;
+    background: #e63946;;
+}
+.header {
+  
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+}
